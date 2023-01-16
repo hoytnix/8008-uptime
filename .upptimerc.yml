@@ -12,9 +12,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /8008-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 8008.is Uptime
+  introTitle: "**8008.is** ICELAND HOSTING FOR NINJAS & PIRATES"
+  introMessage: This is a simple status page.
   navbar:
     - title: Status
       href: /
