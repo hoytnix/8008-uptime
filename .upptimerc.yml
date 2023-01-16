@@ -5,7 +5,7 @@ repo: 8008-uptime # The name of this repository
 sites:
   - name: 8008.is
     url: https://8008.is
-  - name: 8008.is Status
+  - name: 8008.is Uptime
     url: https://hoytnix.github.io/8008-uptime/
 
 status-website:
