@@ -5,6 +5,8 @@ repo: 8008-uptime # The name of this repository
 sites:
   - name: 8008.is
     url: https://8008.is
+  - name: 8008.is Status
+    url: https://hoytnix.github.io/8008-uptime/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
