@@ -13,7 +13,7 @@ status-website:
   baseUrl: /8008-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 8008.is Uptime
-  introTitle: "**8008.is** ICELAND HOSTING FOR NINJAS & PIRATES"
+  introTitle: "**8008.IS** REYKJAVIK, ICELAND 🇮🇸 HOSTING FOR 🥷 NINJAS & PIRATES 🏴‍☠️"
   introMessage: This is a simple status page.
   navbar:
     - title: Status
