@@ -13,12 +13,12 @@ status-website:
   baseUrl: /8008-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 8008.is Uptime
-  introTitle: "**8008.IS** REYKJAVIK, ICELAND 🇮🇸 HOSTING FOR 🥷 NINJAS & PIRATES 🏴‍☠️"
-  introMessage: This is a simple status page.
+  introTitle: "**8008.IS** 🇮🇸 REYKJAVIK, ICELAND HOSTING FOR 🥷 NINJAS & PIRATES 🏴‍☠️"
+  introMessage: Powered by green, sustainable geothermal and hydro power energy.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Git
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
