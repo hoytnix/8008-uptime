@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/8008.is.ico",
     "slug": "8008-is",
     "status": "down",
-    "uptime": "2.60%",
+    "uptime": "2.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-24": 83,
+      "2024-12-25": 82,
+      "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -379,8 +380,7 @@
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440
+      "2023-12-27": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 76,
-    "timeWeek": 82,
-    "timeMonth": 98,
-    "timeYear": 97,
+    "timeDay": 98,
+    "timeWeek": 84,
+    "timeMonth": 99,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   }
 ]
